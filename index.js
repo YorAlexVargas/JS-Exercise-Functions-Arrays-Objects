@@ -1,6 +1,6 @@
 // ⭐️ Example Challenge start ⭐️
 
-/**
+/***(*)
  * ### Challenge `addNumbers`
  * 
  * @instructions
